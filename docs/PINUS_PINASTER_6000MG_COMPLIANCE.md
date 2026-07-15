@@ -61,6 +61,6 @@ Transitioning from elastic Neem powder to a **75% concentrated polyphenolic resi
 
 * * * * *
 
-📋 Medical Disclaimer
+Medical Disclaimer
 
 *The technical specifications and pharmacokinetic data models outlined here are intended strictly for software validation, industrial compounding, and regulatory design within a repository context. These files do not represent official medical guidance, clinical protocols, or prescription authorization. Any industrial production or live implementation must be formally validated by regional pharmaceutical quality systems and regional health authorities.*
