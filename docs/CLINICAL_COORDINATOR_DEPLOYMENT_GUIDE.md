@@ -1,4 +1,4 @@
-# 🩺 CLINICAL COORDINATOR SYSTEM DEPLOYMENT GUIDE
+# CLINICAL COORDINATOR SYSTEM DEPLOYMENT GUIDE
 **Operational Scope:** Institutional Review Board (IRB) Expanded Access Site Management  
 **Target API:** Standardized 15:1 *Pinus pinaster* Resin Matrix Core
 
