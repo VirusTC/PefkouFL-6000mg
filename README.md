@@ -6,7 +6,7 @@
 
 This repository serves as the definitive administrative, pharmacokinetic, and operational compliance source for the **PefkouFL-6000mg** Institutional Review Board (IRB) Expanded Access (Compassionate Use) program. The target formulation utilizes a highly concentrated 15:1 certified organic *Pinus pinaster* (Maritime Pine) Bark Extract matrix bound with pure Gum Acacia to optimize microcirculatory flow, stabilize erythrocyte membranes, and accelerate the structural flushing of metabolic and parasitic clearance debris.
 
-## 🔬 Formulation Architecture
+## Formulation Architecture
 Unlike raw botanical powders, PefkouFL utilizes a high-potency, low-bulk polyphenolic resin extract to fit a massive 6000mg crude herb equivalent into a singular 600mg solid dosage matrix:
 *   **Active Core Mass:** 400.0 mg Standardized *Pinus pinaster* Extract (15:1 Concentration Ratio).
 *   **Standardization Metric:** ≥ 75.0% w/w Pure Oligomeric Proanthocyanidins (OPCs), yielding exactly 300 mg of active tracking molecules per unit dose.
@@ -15,7 +15,7 @@ Unlike raw botanical powders, PefkouFL utilizes a high-potency, low-bulk polyphe
 
 ---
 
-## 🫀 Key Clinical Mechanisms & Mass Transit
+## Key Clinical Mechanisms & Mass Transit
 
 ### 1. Biphasic Human Pharmacokinetic Clearance
 When the 300 mg active proanthocyanidin load is ingested, it exhibits a distinct two-peak plasma profile:
@@ -33,7 +33,7 @@ By widening capillary diameters, the protocol logs a strategic increase in fluid
 
 ---
 
-## 📂 Repository File Structure
+## Repository File Structure
 
 ├── data/\
 │ └── EXPANDED_ACCESS_PATIENT_METRICS.tsv # Real-time tabular microcirculatory tracking\
@@ -57,7 +57,7 @@ By widening capillary diameters, the protocol logs a strategic increase in fluid
 
 ---
 
-## ⚙️ Core Mathematical Equations Deployed
+## Core Mathematical Equations Deployed
 
 ### 1. Human Biphasic Steady-State Accumulation
 $$C_{ss}(t) = \left[ \frac{F \cdot D \cdot k_a}{V_d \cdot (k_a - k_e)} \right] \cdot \left[ \frac{e^{-k_e \cdot t}}{1 - e^{-k_e \cdot \tau}} - \frac{e^{-k_a \cdot t}}{1 - e^{-k_a \cdot \tau}} \right]$$
@@ -70,7 +70,7 @@ $$J_v = L_p \cdot A \cdot \left[ (P_c - P_{if}) - \sigma(\pi_p - \pi_{if}) \righ
 
 ---
 
-## 🛠️ Automated Setup & Verification
+## Automated Setup & Verification
 To execute the repository's pharmacokinetic simulator engine and output the graph assets tracking the $\gamma$-valerolactone systemic clearance profile, install dependencies and run:
 
 ```bash
@@ -80,7 +80,7 @@ python src/pharmacokinetic_simulator.py
 
 ***
 
-### 📋 Medical & Legal Disclaimer
+### Medical & Legal Disclaimer
 The documentation, ledgers, and structural models maintained in this repository describe general human circulatory, chemical, and administrative parameters for software validation and compliance testing. They do not constitute personalized medical advice, clinical diagnostics, or authorized prescription guidelines. Any active implementation of this protocol must be formally verified, signed off, and audited by a licensed Institutional Review Board (IRB) and competent regional health authorities.
 
 ```
