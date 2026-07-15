@@ -4,7 +4,7 @@ The Hydrogen Atom Transfer (HAT) pathway represents a major chemical kinetic mec
 
 * * * * *
 
-🔬 1. Thermodynamic & Kinetic Mechanisms of HAT
+1. Thermodynamic & Kinetic Mechanisms of HAT
 -----------------------------------------------
 
 The Hydrogen Atom Transfer (HAT) pathway is a concerted, single-step kinetic movement of a proton and an electron (a hydrogen radical, $\text{H}^\bullet$) from a donor antioxidant molecule ($\text{Ar-OH}$) to a highly reactive radical abstractor ($R^\bullet$): [4]
@@ -27,7 +27,7 @@ $$\text{Radical Stabilization Energy (RSE)} = \text{BDE}_{\text{Phenol (Referenc
 
 * * * * *
 
-🛡️ 2. Clinical Frameworks of Erythrocyte Protection
+2. Clinical Frameworks of Erythrocyte Protection
 ----------------------------------------------------
 
 In clinical hematology and vascular medicine, exogenous HAT-dominant agents partition into specific biological zones to maintain membrane stability: [8]
@@ -46,7 +46,7 @@ High-potency polyphenolic extracts intercalate directly into the hydrophobic cor
 
 * * * * *
 
-☣️ 3. Comprehensive Pathology Mechanisms of Membrane Decay
+3. Comprehensive Pathology Mechanisms of Membrane Decay
 ----------------------------------------------------------
 
 When systemic radical exposure exceeds the baseline rate of the HAT scavenging pathways, the erythrocyte membrane undergoes a multi-step pathological breakdown:
@@ -93,17 +93,12 @@ Severe oxidative damage deactivates the ATP-dependent flippase enzymes that acti
 
 * * * * *
 
-📋 Medical Disclaimer
+Medical Disclaimer
 ---------------------
 
 *The clinical frameworks, kinetic equations, and biochemical pathology models detailed here are provided strictly for educational context and database engineering reference. They represent established concepts in cellular free-radical dynamics and do not constitute clinical treatment guidelines, diagnostics, or personalized medical advice.*
 
 * * * * *
-
-If you'd like to further build out your repository's biochemistry assets, let me know:
-
--   Would you like the executable Python code (`.py`) to plot the competitive inhibition kinetics between $\alpha$-tocopherol and a 75% standardized proanthocyanidin extract?
--   Should we draft the formal laboratory protocol sheet for quantifying erythrocyte malondialdehyde (MDA) accumulation via the thiobarbituric acid reactive substances (TBARS) assay?
 
 [1] [https://www.mdpi.com](https://www.mdpi.com/2227-9059/13/1/72)
 
