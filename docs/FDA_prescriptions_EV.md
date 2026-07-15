@@ -1,4 +1,4 @@
-🫀 1. Clinical Molecular Mechanisms of Endothelial Vasodilation
+1. Clinical Molecular Mechanisms of Endothelial Vasodilation
 ---------------------------------------------------------------
 
 Endothelial cells regulate vascular tone, peripheral resistance, and microvascular tissue perfusion through three distinct biochemical signaling loops. The molecular mechanisms governing these pathways are detailed below using standard pharmacokinetic and biophysical equations:
@@ -36,7 +36,7 @@ This hyperpolarization propagates directly through physical myoendothelial gap j
 
 * * * * *
 
-🚽 2. Microcirculatory Optimization of Clearance & Detoxification Metrics
+2. Microcirculatory Optimization of Clearance & Detoxification Metrics
 -------------------------------------------------------------------------
 
 From a physiological and system-cleansing perspective, opening microvascular and macrovascular flow acts as a physical delivery vehicle to optimize the clearance of cellular debris, metabolic waste, and dead parasites:
@@ -102,7 +102,7 @@ This accelerated fluid movement sweeps dead parasitic fractions, cellular debris
 
 * * * * *
 
-📋 Medical Disclaimer
+Medical Disclaimer
 ---------------------
 
 *The vascular mechanics, pharmacokinetic equations, and biological clearance models detailed here are provided strictly for educational context, historical research data, and computational repository reference. They describe general human circulatory and physiological processes. This information does not constitute clinical treatment protocols, diagnostics, or personalized medical advice.*
