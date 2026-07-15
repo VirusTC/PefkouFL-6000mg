@@ -1,6 +1,4 @@
-[[1](https://precision.fda.gov/uniisearch/srs/unii/50JZ5Z98QY), [2](https://www.verywellhealth.com/pycnogenol-benefits-and-safety-7692755), [3](https://precision.fda.gov/ginas/app/ui/substances/7c7d9b0c-cb15-4fe3-bd13-82d3792559a9)]
-
-However, its standardized constituents (proanthocyanidins) have been heavily studied in academic [site:edu] and federal [site:gov] clinical trials. If you are building structural documentation for your repository, the **clinically observed, peer-reviewed human molecular pathways**---expressed using LaTeX math---are structured below: [[1](https://pmc.ncbi.nlm.nih.gov/articles/PMC11096518/), [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC9817492/)]
+Pinus Pinaster and its standardized constituents (proanthocyanidins) have been heavily studied in academic [site:edu] and federal [site:gov] clinical trials. [[1](https://pmc.ncbi.nlm.nih.gov/articles/PMC11096518/), [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC9817492/)]
 
 * * * * *
 
