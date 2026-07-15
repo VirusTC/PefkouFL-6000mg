@@ -17,7 +17,7 @@ Organic Certification: 100% Certified Organic via USDA National Organic Program 
 
 * * * * *
 
-📋 SECTION 1: ADMINISTRATIVE & LOT LOGISTICS
+SECTION 1: ADMINISTRATIVE & LOT LOGISTICS
 --------------------------------------------
 
 -   Manufacturer Lot Number: PP-2026-0715-A
@@ -28,7 +28,7 @@ Organic Certification: 100% Certified Organic via USDA National Organic Program 
 
 * * * * *
 
-🧪 SECTION 2: CHEMICAL & STANDARDIZATION METRICS
+SECTION 2: CHEMICAL & STANDARDIZATION METRICS
 ------------------------------------------------
 
 | Analytical Parameter | Testing Methodology | Documented Specification | Lot Actual Result | Status |
@@ -40,7 +40,7 @@ Organic Certification: 100% Certified Organic via USDA National Organic Program 
 
 * * * * *
 
-⚙️ SECTION 3: PHYSICAL & MECHANICAL PARAMETERS
+SECTION 3: PHYSICAL & MECHANICAL PARAMETERS
 ----------------------------------------------
 
 | Physical Metric | Testing Methodology | Documented Specification | Lot Actual Result | Status |
@@ -51,7 +51,7 @@ Organic Certification: 100% Certified Organic via USDA National Organic Program 
 
 * * * * *
 
-🛡️ SECTION 4: MICROBIAL IMPURITIES & BIOBURDEN
+SECTION 4: MICROBIAL IMPURITIES & BIOBURDEN
 -----------------------------------------------
 
 *All microbiological testing satisfies the strict compendial thresholds outlined in USP Chapter <2023>.*
@@ -65,7 +65,7 @@ Organic Certification: 100% Certified Organic via USDA National Organic Program 
 
 * * * * *
 
-🚫 SECTION 5: CONTAMINANTS & HEAVY METALS
+SECTION 5: CONTAMINANTS & HEAVY METALS
 -----------------------------------------
 
 *Quantified via Inductively Coupled Plasma Mass Spectrometry (ICP-MS) to guarantee zero residual chemical carryover.*
@@ -79,7 +79,7 @@ Organic Certification: 100% Certified Organic via USDA National Organic Program 
 
 * * * * *
 
-🧾 SECTION 6: CONFORMANCE ATTESTATION
+SECTION 6: CONFORMANCE ATTESTATION
 -------------------------------------
 
 *We hereby certify that this batch of Organic Pinus pinaster Bark Extract has been fully sampled, tested, and analyzed in accordance with certified current Good Manufacturing Practices (cGMP) guidelines and the relevant USP pharmacopeial monographs. The material is safely verified as fully compliant with all documented raw material release specifications.*
@@ -89,7 +89,7 @@ Date of Release: July 15, 2026
 
 * * * * *
 
-📋 Medical & Industrial Disclaimer
+Medical & Industrial Disclaimer
 ----------------------------------
 
 *The Certificate of Analysis (CoA) template provided above represents a stylized structural design for natural matrix verification within a software repository architecture. It is based on industry-standard compendial metrics for Pycnogenol-type extracts. Real-world validation of a raw material lot must be backed by an independent, third-party analytical laboratory verification using authentic validated reference standards.*
