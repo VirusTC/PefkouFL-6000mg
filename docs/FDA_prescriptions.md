@@ -2,7 +2,7 @@ Pinus Pinaster and its standardized constituents (proanthocyanidins) have been h
 
 * * * * *
 
-🫀 1. Endothelial Vasodilation & Microcirculation
+1. Endothelial Vasodilation & Microcirculation
 
 In human clinical trials, *Pinus pinaster* extracts significantly optimize blood flow and capillary filtration. [[1](https://pmc.ncbi.nlm.nih.gov/articles/PMC11096518/), [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC9817492/)]
 
@@ -22,7 +22,7 @@ The rising concentration of cGMP shifts vascular diameter (D) outward via downst
 
 * * * * *
 
-🛡️ 2. Radical Scavenging Kinetics
+2. Radical Scavenging Kinetics
 
 Human trials evaluating oxidative stress biomarkers demonstrate that the extract works via continuous **Hydrogen Atom Transfer (HAT)** pathways to protect erythrocyte membranes. [[1](https://pmc.ncbi.nlm.nih.gov/articles/PMC3203267/)]
 
@@ -36,7 +36,7 @@ The resulting radical intermediate (\(\text{Ar-O}^{\bullet }\)) is uniquely non-
 
 * * * * *
 
-📋 3. Federal Regulatory Classifications
+3. Federal Regulatory Classifications
 
 While it lacks a pharmaceutical drug index, the FDA tracks and permits the use of *Pinus pinaster* under alternative structural frameworks:
 
@@ -45,6 +45,6 @@ While it lacks a pharmaceutical drug index, the FDA tracks and permits the use o
 
 * * * * *
 
-📋 Medical Disclaimer
+Medical Disclaimer
 
 *The technical parameters, biochemistry formulas, and federal regulatory classifications detailed here are provided strictly for educational and engineering design documentation within a data repository structure. This text does not represent human clinical protocols, official regulatory filings, or personalized medical advice.*
