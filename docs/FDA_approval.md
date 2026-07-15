@@ -4,7 +4,7 @@ Human clinical trials published by academic medical databases [site:edu] and the
 
 * * * * *
 
-🫀 1. Vascular & Endothelial Mechanisms (Vasodilation)
+1. Vascular & Endothelial Mechanisms (Vasodilation)
 
 The primary clinical application of *Pinus pinaster* is treating chronic venous insufficiency (CVI), microangiopathy, and mild hypertension. [[1](https://www.drugs.com/npp/pine-bark-extract.html)]
 
@@ -22,7 +22,7 @@ The liberated \(\text{NO}^{\bullet }\) gas rapidly diffuses across the vascular 
 
 * * * * *
 
-🛡️ 2. Radical Scavenging Kinetics & Redox Biochemistry
+2. Radical Scavenging Kinetics & Redox Biochemistry
 
 A. Direct Hydrogen Atom Transfer (HAT)
 
@@ -38,7 +38,7 @@ Beyond direct scavenging, clinical assays demonstrate that *Pinus pinaster* acts
 
 * * * * *
 
-⏱️ 3. Human Clinical Pharmacokinetics (PK)
+3. Human Clinical Pharmacokinetics (PK)
 
 When a massive 6000mg crude-equivalent dose is administered, the component absorption follows a clear **biphasic clearance loop** due to the vastly different molecular weights of its constituents: [[1](https://pmc.ncbi.nlm.nih.gov/articles/PMC11096517/)]
 
@@ -65,7 +65,7 @@ When a massive 6000mg crude-equivalent dose is administered, the component absor
 
 * * * * *
 
-⚙️ 4. Formulating a 6000mg Matrix Core
+4. Formulating a 6000mg Matrix Core
 
 When building a high-potency tablet with a 6000mg crude herb equivalence, the manufacturing physics shift dramatically compared to the Neem extract:
 
@@ -74,6 +74,6 @@ When building a high-potency tablet with a 6000mg crude herb equivalence, the ma
 
 * * * * *
 
-📋 Medical Disclaimer
+Medical Disclaimer
 
 *The information provided herein describes general chemical, biochemical, and pharmacokinetic models of Pinus pinaster based on published clinical literature. This text does not constitute personalized medical advice, clinical diagnostics, or prescription guidelines. High-dose botanical formulations must undergo validation by appropriate regulatory bodies before manufacturing or clinical deployment.*
