@@ -1,0 +1,6 @@
+Billing_Code	Code_Type	Clinical_Description	Unit_Allocation	Reimbursement_Cap_USD
+99205	CPT	High-Complexity Endothelial & Microvascular Evaluation (Day 0)	1 Visit	1107.00
+J3590	HCPCS	Unclassified Botanical Drug (PefkouFL 6000mg Matrix Core)	30 Tablets	601.00
+83520	CPT	Erythrocyte Membrane Malondialdehyde (MDA) Spectrin Audit	2 Assays	405.00
+93922	CPT	Non-Invasive Bilateral Capillary Fluid Flow Waveform Analysis	1 Run	307.00
+99214	CPT	Mid-Cycle Microcirculatory Optimization Review (Day 14)	1 Visit	402.00
